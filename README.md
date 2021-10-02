@@ -1,2 +1,10 @@
-# MATRIX
-集合了许多语言的矩阵代码(我写的或找到的) A collection of matrix codes in many languages (I wrote or found the code)
+# English
+
+## 矩阵
+集合了矩阵的许多语言
+
+## 什么是矩阵？
+电影《黑客帝国》中的一个虚拟世界，矩阵，此仓库集合的是矩阵代码雨的代码
+
+## 有什么用？
+视觉体验
