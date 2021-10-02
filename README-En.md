@@ -1,4 +1,4 @@
-# English
+# [简体中文](https://github.com/Bdbmzwsc/MATRIX/blob/main/README.md)
 
 ## Matrix
 
