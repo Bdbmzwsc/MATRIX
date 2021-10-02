@@ -1,4 +1,4 @@
-# [English](https://github.com/Bdbmzwsc/MATRIX/README-En.md)
+# [English](https://github.com/Bdbmzwsc/MATRIX/blob/main/README-En.md)
 
 ## 矩阵
 集合了矩阵的许多语言
